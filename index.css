@@ -42,7 +42,7 @@ a:hover {
     align-items: center;
     justify-content: center;
     background-color: #252525;
-    height: 85vh;
+    height: 95vh;
 }
 
 .content-1 {
@@ -86,7 +86,7 @@ h1:hover {
 .container-footer {
     display: flex;
     justify-content: center;
-    height: 15vh;
+    height: 5vh;
     background-color: #252525;
 }
 
@@ -111,6 +111,6 @@ p {
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 7vh;
+    height: 5vh;
     padding: 15px;
 }
